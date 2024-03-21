@@ -1,8 +1,8 @@
 ###  👋 Bienvenido a mi Github, Welcome to my GitHub
 
-✨I'm a proud Noob on IT✨
+✨I'm a proud Semi-Noob on IT✨
 
-- 🌱 I recently finished a Java bootcamp.
+- 🌱 I recently upgraded my knowledge on RPA.
 
 - 💬 Ask me about anything... If I don't know nothing about, I'll run to find answers (on Google).
 - 📫 How to reach me: Type vialepau on Twitter, Instagram or Facebook, even on Gmail.,
